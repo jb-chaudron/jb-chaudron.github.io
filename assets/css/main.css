@@ -4687,3 +4687,12 @@ input, select, textarea {
 		}
 
 	}
+
+.centered-list {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+.centered-list li {
+  margin-bottom: 0.5em;
+}
